@@ -1,5 +1,4 @@
-Application of Convolutional Neural Networks for Geographic Identification in
-Images from the Federal District
+# Application of Convolutional Neural Networks for Geographic Identification in Images from the Federal District
 
 This study explores the use of Convolutional Neural Networks (CNNs), specifically
 the ResNet50 architecture, adapted to identify locations in images from the Federal
